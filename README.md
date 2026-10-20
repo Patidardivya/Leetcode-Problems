@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0078-subsets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

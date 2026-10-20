@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,8 +95,13 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->

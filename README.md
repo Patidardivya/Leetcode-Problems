@@ -21,6 +21,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

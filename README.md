@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1922-count-good-numbers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |

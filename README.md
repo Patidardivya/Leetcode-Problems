@@ -40,6 +40,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -117,4 +118,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0078-subsets) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->

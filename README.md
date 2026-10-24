@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
@@ -22,6 +23,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2409-count-days-spent-together](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |

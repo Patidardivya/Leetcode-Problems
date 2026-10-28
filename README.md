@@ -30,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -125,6 +127,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,4 +143,5 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->

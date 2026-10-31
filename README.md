@@ -31,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Patidardivya/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -47,6 +48,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Patidardivya/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -151,5 +153,6 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Patidardivya/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Patidardivya/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
